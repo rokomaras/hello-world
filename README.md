@@ -9,3 +9,6 @@ Ovdje ce biti osbove vezane za commitanje promjena
 
 # Objava sadrzaja uz pomoc GitHub Pages
 Ovdje ce biti objave vezane za objavljivanje sadrzaja na gitHub Pagesu
+
+# Test datoteka
+[poveznica za test.md tatoteku](test.md)
